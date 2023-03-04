@@ -1,4 +1,4 @@
-Discord polling bot that will creates "reaction" under a prompt for easy voting while also allowing the author to participate.
+Discord polling bot that creates "reactions" under a prompt for easy voting while also allowing the author to participate.
 
 Sample input "Poll: "Prompt for poll" :emote1: :emote2: :emote3:"
 
