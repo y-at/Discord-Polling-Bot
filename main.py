@@ -10,7 +10,7 @@ def ListToString(inString):
 
 # Bot key
 load_dotenv()
-TOKEN = os.environ['TOKEN']
+TOKEN = os.environ['ENVTOKEN']
 # Permissions of bot in server that it's added to
 intents = discord.Intents.default()
 intents.message_content = True
